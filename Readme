@@ -1,0 +1,8 @@
+This project uses random library in python.
+You can run the code, then enter the length of password you want, you can give number of capital letters or small letters or special characters to be compulsorily included in the password.
+It will still generate the password if your combined characters are larger than the actual asked, neglecting the values.
+
+
+Good to go.
+
+A very basic project if anyone wants to understand the basics of random function
